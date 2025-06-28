@@ -45,7 +45,7 @@ namespace WPFApp
             try
             {
                 var productList = iProductService.GetProducts();
-                dgData.ItemsSource = productList;
+                dgData.ItemsSource = new List<Product>(productList);
                 
             }
             catch (Exception ex)
