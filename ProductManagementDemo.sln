@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositorie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{E76CA26C-645B-40FD-8E01-301F15057A38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFApp", "WPFApp\WPFApp.csproj", "{C555B71B-0D15-4BEB-BD66-A42F6D2F45D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E76CA26C-645B-40FD-8E01-301F15057A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E76CA26C-645B-40FD-8E01-301F15057A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E76CA26C-645B-40FD-8E01-301F15057A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C555B71B-0D15-4BEB-BD66-A42F6D2F45D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C555B71B-0D15-4BEB-BD66-A42F6D2F45D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C555B71B-0D15-4BEB-BD66-A42F6D2F45D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C555B71B-0D15-4BEB-BD66-A42F6D2F45D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
